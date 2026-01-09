@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "updatedAt": "2026-01-09T00:00:00Z",
+  "artworks": [
+    {
+      "slug": "tide-echo",
+      "title": "Tide Echo",
+      "year": "2023",
+      "priceFromSek": 18000,
+      "image": "img1.png",
+      "tags": ["Acrylic", "Ocean"],
+      "description": "Soft waves and dense horizons, built in layered glaze."
+    },
+    {
+      "slug": "quartz-still",
+      "title": "Quartz Still",
+      "year": "2022",
+      "priceFromSek": 24000,
+      "image": "img2.png",
+      "tags": ["Oil", "Geometry"],
+      "description": "A calm geometry of pale quartz and balanced light."
+    },
+    {
+      "slug": "pale-interval",
+      "title": "Pale Interval",
+      "year": "2024",
+      "priceFromSek": 16000,
+      "image": "img3.png",
+      "tags": ["Mixed Media", "Minimal"],
+      "description": "Thin layers of pigment and sand form a quiet interval."
+    },
+    {
+      "slug": "orchard-silence",
+      "title": "Orchard Silence",
+      "year": "2021",
+      "priceFromSek": 12000,
+      "image": "img4.png",
+      "tags": ["Paper", "Ink"],
+      "description": "Ink folds and orchard lines, pressed into soft paper."
+    },
+    {
+      "slug": "neon-dusk",
+      "title": "Neon Dusk",
+      "year": "2020",
+      "priceFromSek": 20000,
+      "image": "img1.png",
+      "tags": ["Acrylic", "Urban"],
+      "description": "A city glow that hangs between day and night."
+    },
+    {
+      "slug": "weightless-field",
+      "title": "Weightless Field",
+      "year": "2024",
+      "priceFromSek": 30000,
+      "image": "img2.png",
+      "tags": ["Canvas", "Large Format"],
+      "description": "A large surface that holds air, light, and space."
+    },
+    {
+      "slug": "quiet-voltage",
+      "title": "Quiet Voltage",
+      "year": "2022",
+      "priceFromSek": 14500,
+      "image": "img3.png",
+      "tags": ["Pigment", "Gradient"],
+      "description": "A restrained gradient with a low, electric pulse."
+    },
+    {
+      "slug": "drift-index",
+      "title": "Drift Index",
+      "year": "2019",
+      "image": "img4.png",
+      "tags": ["Graphite", "Study"],
+      "description": "Graphite tracks and drifting lines, cataloged as a study."
+    }
+  ]
+}
